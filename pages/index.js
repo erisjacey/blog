@@ -1,3 +1,5 @@
+import { useState } from 'react';
+import { Tooltip } from 'react-tooltip';
 import Head from 'next/head';
 import Link from 'next/link';
 import Date from '@/components/date';
@@ -16,12 +18,18 @@ export async function getStaticProps() {
 };
 
 const Home = ({ allPostsData }) => {
+  const [content, setContent] = useState('');
+
   return (
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <div><MapChart /></div>
+      <div>
+        <MapChart setTooltipContent={setContent} />
+        <a id="props-basic"> Test </a>
+        <Tooltip anchorId="props-basic" content={content} />
+      </div>
       <section className={utilStyles.headingMd}>
         <p>Welcome to Eris&apos; blog!</p>
         <p>
