@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Date from '@/components/date';
 import Layout, { siteTitle } from '@/components/layout';
+import MapChart from '@/components/mapchart';
 import { getSortedPostsData } from '@/lib/posts';
 import utilStyles from '@/styles/utils.module.css';
 
@@ -20,6 +21,7 @@ const Home = ({ allPostsData }) => {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+      <div><MapChart /></div>
       <section className={utilStyles.headingMd}>
         <p>Welcome to Eris&apos; blog!</p>
         <p>
