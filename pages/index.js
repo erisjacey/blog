@@ -15,31 +15,35 @@ export async function getStaticProps() {
 };
 
 const Home = ({ allPostsData }) => {
+  const renderPosts = (postsData) => (
+    <ul className={`not-prose ${utilStyles.list}`}>
+      {postsData.map(({ id, date, title }) => (
+        <li className={utilStyles.listItem} key={id}>
+          <Link href={`/posts/${id}`}>{title}</Link>
+          <br />
+          <small className={utilStyles.lightText}>
+            <Date dateString={date} />
+          </small>
+        </li>
+      ))}
+    </ul>
+  );
+
   return (
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <article className={`prose ${utilStyles.headingMd}`}>
         <p>Welcome to Eris&apos; blog!</p>
         <p>
           This is a still a work in progress. More to show in the future. :)
         </p>
-      </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+      </article>
+      <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc}`}>
         <h2 className={utilStyles.headingLg}>Latest Posts</h2>
-        <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>{title}</Link>
-              <br />
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
-            </li>
-          ))}
-        </ul>
-      </section>
+        {renderPosts(allPostsData)}
+      </article>
     </Layout>
   );
 };

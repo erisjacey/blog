@@ -37,6 +37,10 @@
   padding-top: 1px;
 }
 
+.padding3pc {
+  padding-top: 3%;
+}
+
 .list {
   list-style: none;
   padding: 0;
