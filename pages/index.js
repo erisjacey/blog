@@ -19,12 +19,12 @@ const Home = ({ allPostsData }) => {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <article className={`prose ${utilStyles.headingMd}`}>
+      <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc}`}>
         <p>Welcome to Eris&apos; blog!</p>
         <p>
           This is a still a work in progress. More to show in the future. :)
         </p>
-        <h2 className={utilStyles.headingLg}>Latest Posts</h2>
+        <h2 className={`${utilStyles.headingLg} ${utilStyles.padding3pc}`}>Latest Posts</h2>
       </article>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <Tabs posts={allPostsData} />

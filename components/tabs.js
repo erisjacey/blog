@@ -20,7 +20,7 @@ const Tabs = ({ posts }) => {
   const renderPosts = (posts, topic) => (
     <ul className={utilStyles.list}>
       {posts
-      .filter(({ id }) => {console.log(getBlogTopicFromId(id), topic); return topic === ALL || topic === getBlogTopicFromId(id); })
+      .filter(({ id }) => topic === ALL || topic === getBlogTopicFromId(id))
       .map(({ id, date, title }) => (
         <li className={utilStyles.listItem} key={id}>
           <Link href={`/posts/${id}`}>{title}</Link>
