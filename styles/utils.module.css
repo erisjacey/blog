@@ -17,6 +17,7 @@
 .headingLg {
   font-size: 1.5rem;
   line-height: 1.4;
+  font-weight: 700;
   margin: 1rem 0;
 }
 
@@ -35,6 +36,10 @@
 
 .padding1px {
   padding-top: 1px;
+}
+
+.padding3pc {
+  padding-top: 3%;
 }
 
 .list {
