@@ -1,8 +1,7 @@
 import Head from 'next/head';
-import Link from 'next/link';
-import Date from '@/components/date';
 import Layout, { siteTitle } from '@/components/layout';
 import MapChart from '@/components/mapchart';
+import Tabs from '@/components/tabs';
 import { getSortedPostsData } from '@/lib/posts';
 import utilStyles from '@/styles/utils.module.css';
 
@@ -16,7 +15,6 @@ export async function getStaticProps() {
 };
 
 const Home = ({ allPostsData }) => {
-
   return (
     <Layout home>
       <Head>
@@ -25,25 +23,15 @@ const Home = ({ allPostsData }) => {
       <div>
         <MapChart />
       </div>
-      <section className={utilStyles.headingMd}>
+      <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc}`}>
         <p>Welcome to Eris&apos; blog!</p>
         <p>
           This is a still a work in progress. More to show in the future. :)
         </p>
-      </section>
+        <h2 className={`${utilStyles.headingLg} ${utilStyles.padding3pc}`}>Latest Posts</h2>
+      </article>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Latest Posts</h2>
-        <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>{title}</Link>
-              <br />
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
-            </li>
-          ))}
-        </ul>
+        <Tabs posts={allPostsData} />
       </section>
     </Layout>
   );
