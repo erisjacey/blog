@@ -21,10 +21,10 @@ const Home = ({ allPostsData }) => {
         <title>{siteTitle}</title>
       </Head>
       <div>
-        <MapChart />
+        <MapChart posts={allPostsData} />
       </div>
       <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc}`}>
-        <p>Welcome to Eris&apos; blog!</p>
+        <p>Welcome to my blog!</p>
         <p>
           This is a still a work in progress. More to show in the future. :)
         </p>
