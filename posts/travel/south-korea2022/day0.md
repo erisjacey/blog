@@ -1,5 +1,5 @@
 ---
-title: '[Korea Day 0] First extensive trip since COVID!'
+title: '[Korea] Day 0: First extensive trip since COVID!'
 date: '2022-12-20'
 ---
 
