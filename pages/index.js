@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '@/components/layout';
+import MapChart from '@/components/mapchart';
 import Tabs from '@/components/tabs';
 import { getSortedPostsData } from '@/lib/posts';
 import utilStyles from '@/styles/utils.module.css';
@@ -19,8 +20,11 @@ const Home = ({ allPostsData }) => {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+      <div>
+        <MapChart posts={allPostsData} />
+      </div>
       <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc}`}>
-        <p>Welcome to Eris&apos; blog!</p>
+        <p>Welcome to my blog!</p>
         <p>
           This is a still a work in progress. More to show in the future. :)
         </p>
