@@ -5,9 +5,11 @@ date: '2022-12-30'
 
 Will fill this in after I come back from Korea LOL
 
-# h1
+# Cold as fuck
 
-## h2
+![sukiya](/images/posts/travel/south-korea2022/day0/sukiya.png)
+
+# Brrr
 
 ### h3
 
