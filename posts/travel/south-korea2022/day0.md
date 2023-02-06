@@ -3,20 +3,18 @@ title: '[Korea] Day 0: First extensive trip since COVID!'
 date: '2022-12-30'
 ---
 
-Will fill this in after I come back from Korea LOL
+# Changi Airport
 
-# Cold as fuck
+![starbies](/images/posts/travel/south-korea2022/day0/starbies.png)
 
 ![sukiya](/images/posts/travel/south-korea2022/day0/sukiya.png)
 
-# Brrr
+![boarding-pass](/images/posts/travel/south-korea2022/day0/boarding-pass.png)
 
-### h3
+# In the Plane
 
-#### h4
+![dashboard](/images/posts/travel/south-korea2022/day0/dashboard.png)
 
-##### h5
+![in-flight-meal](/images/posts/travel/south-korea2022/day0/in-flight-meal.png)
 
-###### h6
-
-**Bold** _italics_ [link](https://tailwindcss.com/docs/typography-plugin)
+![singapore-sling](/images/posts/travel/south-korea2022/day0/singapore-sling.png)
