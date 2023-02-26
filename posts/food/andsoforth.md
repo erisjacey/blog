@@ -23,7 +23,7 @@ The cocktail making crash course was short and sweet and the cocktail itself was
 
 ![knot-sign](/images/posts/food/andsoforth/knot-sign.JPG)
 
-The scene reimagined here was onboard a ship, so naturally the activity conducted here was a knot tying workshop. We were taught how to tie a bowline knot and handcuff knot, so if it wasn't made obvious this place wasn't the most family-friendly in the previous room, it definitely was here.
+The scene reimagined here was onboard a ship, so naturally the activity conducted here was a knot tying workshop. We were taught how to tie a bowline knot and handcuff knot, so if it hadn't been made obvious this place wasn't the most family-friendly in the previous room, it definitely was here.
 
 As sort of an appetiser, we were served a pretty scrupmtious seafood soup. I thought the soup itself was rich and thick, all the seafood was tender and the bread was crunchy and seasoned well.
 
@@ -83,9 +83,9 @@ We were also treated to a pretty cool trapeze demonstration by two trapeze perfo
 
 This was the only room without food being served, but I guess it was to be expected after the last room's dessert. Instead, the facilitator just did a recap of the story through a mini trivia game. I thought it was quite funny that Megan and I couldn't follow most of the story. I think we were mostly preoccupied with looking forward to the food in each station and actually eating it.
 
-## My thoughts
+# My thoughts
 
-This was the definitely one of the more unique dining experiences I've had so far. It's especially fun to go with a partner or even a close friend or two. While I thought the food was pretty good, it wasn't mind blowing or anything. On top of that, we had a pretty late lunch that day and I still wasn't super full at the end of the course.
+This was the definitely one of the more unique dining experiences I've had so far. It's especially fun to go with a partner or even a close friend or two. While I thought the food was pretty good, it wasn't mind blowing or anything. On top of that, we had a pretty late lunch prior and I still wasn't super full at the end of the course.
 
 The variety in room designs and cuisines definitely enhance the experience though. I would heartily recommend going for at least one of Andsoforth's events!
 
