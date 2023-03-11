@@ -6,30 +6,15 @@ import {
   ZoomableGroup
 } from 'react-simple-maps';
 import { Tooltip } from 'react-tooltip';
-import { capitalisePhrase, idStrToArr, getBlogType1FromIdArr, getBlogType2FromIdArr } from '@/lib/utils';
+import 'react-tooltip/dist/react-tooltip.css';
+import NoSsr from '@/components/nossr';
+import { countries } from '@/lib/constants';
 
 const GEO_URL =
   'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries-sans-antarctica.json';
 
-const TRAVEL = 'travel';
-
-const MapChart = ({ posts }) => {
+const MapChart = () => {
   const [content, setContent] = useState('');
-
-  const getAllCountries = (posts) => (
-    new Set(posts
-      .filter((post) => {
-        const idArr = idStrToArr(post.id);
-        return getBlogType1FromIdArr(idArr) === TRAVEL;
-      })
-      .map((post) => {
-        const idArr = idStrToArr(post.id);
-        const type2 = getBlogType2FromIdArr(idArr); // Format: countryNameYear
-        return capitalisePhrase(type2.replace(/[0-9]/g, '').replace('-', ' '));
-      })
-  ));
-
-  const countries = getAllCountries(posts);
 
   return (
     <>
@@ -40,6 +25,7 @@ const MapChart = ({ posts }) => {
               geographies.map((geo) => (
                 <Geography
                   key={geo.rsmKey}
+                  data-tooltip-id="my-tooltip"
                   geography={geo}
                   onMouseEnter={() => {
                     setContent(`${geo.properties.name}`);
@@ -65,7 +51,9 @@ const MapChart = ({ posts }) => {
           </Geographies>
         </ZoomableGroup>
       </ComposableMap>
-      <Tooltip content={content} />
+      <NoSsr>
+        <Tooltip id="my-tooltip" content={content} />
+      </NoSsr>
     </>
   )
 };

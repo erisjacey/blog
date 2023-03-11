@@ -3,7 +3,7 @@ title: 'Westlife: The Wild Dreams Tour'
 date: '2023-02-16'
 ---
 
-![selfie](/images/posts/shows/westlife2023/selfie.JPG)
+![selfie](/images/posts/shows/westlife-2023/selfie.JPG)
 
 Megan and I went for Westlife's latest tour in Singapore. This was only the second concert I've been to, literally one day after my first (Phoebe Bridgers'). The past 2 days were truly a treat to say the least.
 
@@ -11,7 +11,7 @@ The [set list](https://www.setlist.fm/setlist/westlife/2023/asiaworld-arena-isla
 
 Credits to Tanat Pruett for the following recording of Westlife performing Flying Without Wings tonight:
 
-[![flying-without-wings](/images/posts/shows/westlife2023/flying-without-wings.png)](https://www.youtube.com/watch?v=TJ_wkY04VhU)
+[![flying-without-wings](/images/posts/shows/westlife-2023/flying-without-wings.png)](https://www.youtube.com/watch?v=TJ_wkY04VhU)
 
 # My thoughts
 
@@ -19,4 +19,4 @@ I thought this concert was a completely different but equally intimate vibe from
 
 Hearing Shane's amazing voice in real life was basically a new core memory unlocked for me. I was also really glad that Mark was well and could come to perform despite battling recent health issues.
 
-![crowd](/images/posts/shows/westlife2023/crowd.JPG)
+![crowd](/images/posts/shows/westlife-2023/crowd.JPG)

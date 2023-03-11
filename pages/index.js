@@ -21,13 +21,19 @@ const Home = ({ allPostsData }) => {
         <title>{siteTitle}</title>
       </Head>
       <div>
-        <MapChart posts={allPostsData} />
+        <MapChart />
       </div>
-      <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc}`}>
+      <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc} text-justify`}>
         <p>Welcome to my blog!</p>
         <p>
-          This is a still a work in progress. More to show in the future. :)
+           My name is Eris, and I am currently a Computer Science undergraduate 
+           raised and living in Singapore.
         </p>
+        <p>
+          This website is a collection of my documented recent experiences, ranging
+          from local escapades to overseas adventures.
+        </p>
+        <p>I aim to continue updating this blog, so stay tuned!</p>
         <h2 className={`${utilStyles.headingLg} ${utilStyles.padding3pc}`}>Latest Posts</h2>
       </article>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

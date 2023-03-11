@@ -3,7 +3,7 @@ title: 'Phoebe Bridgers: Reunion Tour'
 date: '2023-02-15'
 ---
 
-![entrance](/images/posts/shows/phoebe-bridgers2023/entrance.jpg)
+![entrance](/images/posts/shows/phoebe-bridgers-2023/entrance.jpg)
 
 My buddy Clement and I went for Phoebe Bridgers' first tour in Singapore. This was the first concert I have ever gone for as well, so this was pretty special to me. I'd even listened to nothing but her songs (and Westlife's) in the past few months to prepare for this :)
 
@@ -11,7 +11,7 @@ The [set list](https://www.setlist.fm/setlist/phoebe-bridgers/2023/esplanade-the
 
 Credits to Ivy Ursinia for the following recording of her playing Sidelines tonight:
 
-[![sidelines](/images/posts/shows/phoebe-bridgers2023/sidelines.png)](https://www.youtube.com/watch?v=NxCEJLu6Ix8E)
+[![sidelines](/images/posts/shows/phoebe-bridgers-2023/sidelines.png)](https://www.youtube.com/watch?v=NxCEJLu6Ix8E)
 
 # My thoughts
 
@@ -23,4 +23,4 @@ Hearing Moon Song live especially got me good. It's my absolute favourite song o
 
 Credits to Clement for taking and editing the following pic:
 
-![cool-shot](/images/posts/shows/phoebe-bridgers2023/cool-shot.jpeg)
+![cool-shot](/images/posts/shows/phoebe-bridgers-2023/cool-shot.jpeg)
