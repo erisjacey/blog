@@ -3,12 +3,13 @@ import {
   ComposableMap,
   Geographies,
   Geography,
+  Marker,
   ZoomableGroup
 } from 'react-simple-maps';
 import { Tooltip } from 'react-tooltip';
 import 'react-tooltip/dist/react-tooltip.css';
 import NoSsr from '@/components/nossr';
-import { countries } from '@/lib/constants';
+import { countries, markers } from '@/lib/constants';
 
 const GEO_URL =
   'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries-sans-antarctica.json';
@@ -49,6 +50,18 @@ const MapChart = () => {
               ))
             }
           </Geographies>
+          {markers.map(({ name, coordinates, markerOffset }) => (
+            <Marker key={name} coordinates={coordinates}>
+              <circle r={1.3} fill="#F00" stroke="#fff" strokeWidth={0.5} />
+              <text
+                textAnchor="middle"
+                y={markerOffset}
+                style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "4" }}
+              >
+                {name}
+              </text>
+            </Marker>
+          ))}
         </ZoomableGroup>
       </ComposableMap>
       <NoSsr>
