@@ -52,11 +52,11 @@ const MapChart = () => {
           </Geographies>
           {markers.map(({ name, coordinates, markerOffset }) => (
             <Marker key={name} coordinates={coordinates}>
-              <circle r={2} fill="#F00" stroke="#fff" strokeWidth={1} />
+              <circle r={1.3} fill="#F00" stroke="#fff" strokeWidth={0.5} />
               <text
                 textAnchor="middle"
                 y={markerOffset}
-                style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "5" }}
+                style={{ fontFamily: "system-ui", fill: "#5D5A6D", fontSize: "4" }}
               >
                 {name}
               </text>
