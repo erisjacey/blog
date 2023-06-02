@@ -4,7 +4,7 @@ date: '2023-05-26'
 country: 'Indonesia'
 ---
 
-A few buddies of mine and I went to Nusa Penida in Bali from 23-27 May for a solid 3 days of diving. We snagged a good promo with Scuba Junkie Penida at ADEX this year and signed up for a set of 9 fun dives with them along with a couple day stay at their integrated resort.
+A few buddies of mine and I went to Nusa Penida in Bali from 23-27 May for a solid 3 days of diving. We snagged a good promo with [Scuba Junkie Penida](https://www.scubajunkiepenida.com/) at ADEX this year and signed up for a set of 9 fun dives with them along with a couple day stay at their integrated resort.
 
 ![dive-board](/images/posts/travel/bali-2023/penida/dive-board.JPEG)
 
@@ -64,7 +64,7 @@ On our third day, we were taken to further west in the island. Our first stop in
 
 Our next and last stop took us to Kelingking Hill/Beach, probably the most famous sight in Nusa Penida. There was another hike down some stairs to the beach itself, but it would've apparently taken us 45 min just to get down, and we were really lazy, so again all we did was take some pictures and then left for dinner.
 
-*Picture of Kelingking coming soon!*
+![kelingking](/images/posts/travel/bali-2023/penida/land/kelingking.JPEG)
 
 # My thoughts
 
