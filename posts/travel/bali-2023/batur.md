@@ -38,8 +38,8 @@ When we'd reached the end, our guide told us the hike was 8km in total length. I
 
 # My thoughts
 
-Thanks to a dastardly combination of sleep deprivation, a lack of preparation, inappopriate hiking footwear, horrendous fitness, and an extreme fog, the hike could definitely have been so much more comfortable and enjoyable. Was it worth it in the end though? All I can say is, I'm sort of glad I agreed to (or rather didn't fight to hard against) doing this, because it provided me with a sense of satisfication different to one derived from having seen a manta ray or mola.
+Thanks to a dastardly combination of sleep deprivation, a lack of preparation, inappopriate hiking footwear, horrendous fitness, and an extreme fog, the hike could definitely have been so much more comfortable and enjoyable. Was it worth it in the end though? All I can say is, I'm sort of glad I agreed to (or rather didn't fight too hard against) doing this, because it provided me with a sense of satisfication different to one derived from having seen a manta ray or mola.
 
-Onto tackling Kota Kinabalu next, I guess?
+Onto tackling Mount Kinabalu next, I guess?
 
 ![wefie](/images/posts/travel/bali-2023/batur/wefie.jpg)
