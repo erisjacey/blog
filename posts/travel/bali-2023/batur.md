@@ -12,7 +12,7 @@ To say the least, I was terribly unprepared for what was about to come.
 
 We woke up at the ungodly time of 2am in order to be picked up by a driver and be taken to the hike's starting point. There, we met our guide for the hike and shortly after commenced our ascent.
 
-I had not steeled myself for how tired I'd find myself barely few minutes of walking up some uneven slopes. Thank God for the frequent breaks we took. During them, we'd peer over the edge of the mountain and overlook the town residing nearby, most of which was presumably still awake. After all, who would be awake so early in the morning here but overzealous tourists vying for some artificial sense of accomplishment, along with local hiking guides who do this so often it's probably child's play to them?
+I had not steeled myself for how tired I'd find myself barely few minutes of walking up some uneven slopes. Thank God for the frequent breaks we took. During them, we'd peer over the edge of the mountain and overlook the town residing nearby, most of which was presumably still asleep. After all, who would be awake so early in the morning here but overzealous tourists vying for some artificial sense of accomplishment, along with local hiking guides who do this so often it's probably child's play to them?
 
 We eventually made it to where touring jeeps would stop and park themselves. I thought we were done. But I was then told we'd only reached the halfway point of the hike up...
 
@@ -38,8 +38,8 @@ When we'd reached the end, our guide told us the hike was 8km in total length. I
 
 # My thoughts
 
-Thanks to a dastardly combination of sleep deprivation, a lack of preparation, inappopriate hiking footwear, horrendous fitness, and an extreme fog, the hike could definitely have been so much more comfortable and enjoyable. Was it worth it in the end though? All I can say is, I'm sort of glad I agreed to (or rather didn't fight to hard against) doing this, because it provided me with a sense of satisfication different to one derived from having seen a manta ray or mola.
+Thanks to a dastardly combination of sleep deprivation, a lack of preparation, inappopriate hiking footwear, horrendous fitness, and an extreme fog, the hike could definitely have been so much more comfortable and enjoyable. Was it worth it in the end though? All I can say is, I'm sort of glad I agreed to (or rather didn't fight too hard against) doing this, because it provided me with a sense of satisfication different to one derived from having seen a manta ray or mola.
 
-Onto tackling Kota Kinabalu next, I guess?
+Onto tackling Mount Kinabalu next, I guess?
 
 ![wefie](/images/posts/travel/bali-2023/batur/wefie.jpg)
