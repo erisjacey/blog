@@ -20,3 +20,5 @@ I unfortunately had to miss the Arctic Monkeys concert in March due to being aff
 I usually associate my favourite albums with a particular journey/place. I have very fond memories of playing *Is This It* from start to finish during my weekly bus rides to camp when I was still serving in the Singapore army. At the time, the playthroughs would provide me just a little bit of solace in lieu of the boring week ahead.
 
 Honestly, out of the 3 concerts I have been to now, this one was probably my favourite. The feeling of jumping around and screaming the lyrics to every song with people I was standing very close to was simply an awesome experience I never had before. I felt connected to everyone in the concert hall even though I didn't know anyone. It sure more than made up for the pain I felt in my ears and feet after :)
+
+![ize-of-the-world](/images/posts/shows/the-strokes-2023/ize-of-the-world.png)
