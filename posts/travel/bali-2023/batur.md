@@ -12,7 +12,7 @@ To say the least, I was terribly unprepared for what was about to come.
 
 We woke up at the ungodly time of 2am in order to be picked up by a driver and be taken to the hike's starting point. There, we met our guide for the hike and shortly after commenced our ascent.
 
-I had not steeled myself for how tired I'd find myself barely few minutes of walking up some uneven slopes. Thank God for the frequent breaks we took. During them, we'd peer over the edge of the mountain and overlook the town residing nearby, most of which was presumably still awake. After all, who would be awake so early in the morning here but overzealous tourists vying for some artificial sense of accomplishment, along with local hiking guides who do this so often it's probably child's play to them?
+I had not steeled myself for how tired I'd find myself barely few minutes of walking up some uneven slopes. Thank God for the frequent breaks we took. During them, we'd peer over the edge of the mountain and overlook the town residing nearby, most of which was presumably still asleep. After all, who would be awake so early in the morning here but overzealous tourists vying for some artificial sense of accomplishment, along with local hiking guides who do this so often it's probably child's play to them?
 
 We eventually made it to where touring jeeps would stop and park themselves. I thought we were done. But I was then told we'd only reached the halfway point of the hike up...
 
