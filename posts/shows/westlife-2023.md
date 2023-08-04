@@ -9,7 +9,7 @@ Megan and I went for Westlife's latest tour in Singapore. This was only the seco
 
 The [set list](https://www.setlist.fm/setlist/westlife/2023/asiaworld-arena-islands-district-hong-kong-sar-china-5bbab750.html) the band used featured mostly their hits from the past, with a few features from the latest album.
 
-Credits to Tanat Pruett for the following recording of Westlife performing Flying Without Wings tonight:
+Credits to Tanat Pruett for the following recording of Westlife performing *Flying Without Wings* tonight:
 
 [![flying-without-wings](/images/posts/shows/westlife-2023/flying-without-wings.png)](https://www.youtube.com/watch?v=TJ_wkY04VhU)
 
