@@ -26,7 +26,7 @@ As if all our luck had been spent in Nusa Penida, it turned out that it was real
 
 *What was I supposed to be seeing?!*
 
-Regardless, we spent an hour or so at the top resting, congraluating ourselves for a job terribly done, and trying our best to enjoy the sunrise. I found out only then that Mount Batur was supposed to be 1717m tall. That was pretty cool.
+Regardless, we spent an hour or so at the top resting, congratulating ourselves for a job terribly done, and trying our best to enjoy the sunrise. I found out only then that Mount Batur was supposed to be 1717m tall. That was pretty cool.
 
 We then began our hike down the mountain. I discovered an issue with my footwear. As it turned out, the traction on my shoes was so terrible, and it was much easier for me to slip and fall if I was walking on small rocks or something. While I did face that sometimes during the hike up, the problem was  exacerbated walking down. It was not fun.
 
