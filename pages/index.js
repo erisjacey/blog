@@ -26,8 +26,8 @@ const Home = ({ allPostsData }) => {
       <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc} text-justify`}>
         <p>Welcome to my blog!</p>
         <p>
-           My name is Eris, and I am currently a software engineer with a 
-           degree Computer Science raised and living in Singapore.
+          My name is Eris, and I am currently a software engineer with a
+          degree in Computer Science raised and living in Singapore.
         </p>
         <p>
           This website is a collection of my documented recent experiences, ranging
