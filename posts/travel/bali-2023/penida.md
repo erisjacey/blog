@@ -14,7 +14,7 @@ A few buddies of mine and I went to Nusa Penida in Bali from 23-27 May for a sol
 
 Credits to Clement for taking and editing the following pics in this section.
 
-I ABSOLUTELY LOVED DIVING IN NUSA PENIDA!
+I absolutely ***loved*** diving in Nusa Penida!
 
 The main attraction to diving here all-year round is definitely to see manta rays, and we were treated to 4-5 of them on our first day alone. A stone's throw away from the island is a cleaning station for these wonderful creatures, and we got to see them gliding along not far below the surface. It was quite surreal to see quite a few of them in the wild for the first time, and it was definitely one of the highlights of this trip.
 

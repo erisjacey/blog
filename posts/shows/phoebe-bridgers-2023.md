@@ -7,7 +7,7 @@ date: '2023-02-15'
 
 My buddy Clement and I went for Phoebe Bridgers' first tour in Singapore. This was the first concert I have ever gone for as well, so this was pretty special to me. I'd even listened to nothing but her songs (and Westlife's) in the past few months to prepare for this :)
 
-The [set list](https://www.setlist.fm/setlist/phoebe-bridgers/2023/esplanade-theatre-singapore-singapore-2bbaa88e.html) Phoebe used was the standard in her current tour, except that she actually squeezed in Sidelines towards the end of her set! Apparently, some dude approach her in a coffee shop and requested that she play it. Shoutout to that guy honestly, and to Phoebe for actually following through on his request.
+The [set list](https://www.setlist.fm/setlist/phoebe-bridgers/2023/esplanade-theatre-singapore-singapore-2bbaa88e.html) Phoebe used was the standard in her current tour, except that she actually squeezed in *Sidelines* towards the end of her set! Apparently, some dude approach her in a coffee shop and requested that she play it. Shoutout to that guy honestly, and to Phoebe for actually following through on his request.
 
 Credits to Ivy Ursinia for the following recording of her playing *Sidelines* tonight:
 
