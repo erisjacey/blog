@@ -9,6 +9,10 @@ import utilStyles from '@/styles/utils.module.css';
 
 const ALL = 'all';
 
+/**
+ * Returns a series of tabs with their corresponding tab panels underneath.
+ * Each tab panel consists of a list of blog posts for that particular topic.
+ */
 const Tabs = ({ posts }) => {
   const getBlogTopicFromId = (id) => {
     const idArr = idStrToArr(id);
