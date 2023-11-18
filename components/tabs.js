@@ -1,15 +1,18 @@
-import Link from 'next/link';
-import Date from '@/components/date';
+import Pagination from '@/components/pagination';
 import { topics } from '@/lib/constants';
 import {
   capitaliseWord,
   idStrToArr,
   getBlogTypeFromIdArr,
 } from '@/lib/utils';
-import utilStyles from '@/styles/utils.module.css';
 
 const ALL = 'all';
 
+/**
+ * Returns a series of tabs with their corresponding tab panels underneath.
+ * Each tab panel consists of a list of blog posts for that particular topic.
+ * This list is wrapped in a Pagination component.
+ */
 const Tabs = ({ posts }) => {
   const getBlogTopicFromId = (id) => {
     const idArr = idStrToArr(id);
@@ -34,21 +37,12 @@ const Tabs = ({ posts }) => {
     ${tabName === ALL ? 'active' : ''}
   `;
 
-  const renderPosts = (posts, topic) => (
-    <ul className={utilStyles.list}>
-      {posts
-        .filter(({ id }) => topic === ALL || topic === getBlogTopicFromId(id))
-        .map(({ id, date, title }) => (
-          <li className={utilStyles.listItem} key={id}>
-            <Link href={`/posts/${id}`}>{title}</Link>
-            <br />
-            <small className={utilStyles.lightText}>
-              <Date dateString={date} />
-            </small>
-          </li>
-        ))}
-    </ul>
-  );
+  const renderPosts = (posts, topic) => {
+    const filteredPosts = posts.filter(({ id }) => topic === ALL || topic === getBlogTopicFromId(id));
+    return (
+      <Pagination posts={filteredPosts} />
+    );
+  };
 
   const renderTab = (topic) => (
     <li key={`${topic}-tab`} id={topic} className="nav-item flex-auto text-center" role="presentation">
