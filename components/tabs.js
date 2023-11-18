@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Date from '@/components/date';
+import Post from '@/components/post';
 import { topics } from '@/lib/constants';
 import {
   capitaliseWord,
@@ -38,13 +39,9 @@ const Tabs = ({ posts }) => {
     <ul className={utilStyles.list}>
       {posts
         .filter(({ id }) => topic === ALL || topic === getBlogTopicFromId(id))
-        .map(({ id, date, title }) => (
+        .map(({ id, title, date }) => (
           <li className={utilStyles.listItem} key={id}>
-            <Link href={`/posts/${id}`}>{title}</Link>
-            <br />
-            <small className={utilStyles.lightText}>
-              <Date dateString={date} />
-            </small>
+            <Post id={id} title={title} date={date} />
           </li>
         ))}
     </ul>
