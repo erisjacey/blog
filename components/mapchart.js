@@ -12,7 +12,7 @@ import NoSsr from '@/components/nossr';
 import { countries, markers } from '@/lib/constants';
 
 const GEO_URL =
-  'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries-sans-antarctica.json';
+  'https://unpkg.com/world-atlas@2.0.2/countries-110m.json';
 
 const MapChart = () => {
   const [content, setContent] = useState('');
