@@ -42,30 +42,30 @@ const Pagination = ({ posts }) => {
       setMinPageLimit(minPageLimit + pageNumberLimit);
     }
     setCurrentPage((prev) => prev + 1);
- }
+  }
 
   const renderPosts = () => (
     <ul className={utilStyles.list}>
       {posts
-      .filter((_, index) => {
-        const minIndexAtCurrentPage = (currentPage - 1) * postsPerPageLimit;
-        const maxIndexAtCurrentPage = currentPage * postsPerPageLimit - 1;
-        return index >= minIndexAtCurrentPage && index <= maxIndexAtCurrentPage;
-      })
-      .map(({ id, title, date}) => (
-        <li className={utilStyles.listItem} key={id}>
-          <Post id={id} title={title} date={date} />
-        </li>
-      ))}
+        .filter((_, index) => {
+          const minIndexAtCurrentPage = (currentPage - 1) * postsPerPageLimit;
+          const maxIndexAtCurrentPage = currentPage * postsPerPageLimit - 1;
+          return index >= minIndexAtCurrentPage && index <= maxIndexAtCurrentPage;
+        })
+        .map(({ id, title, date }) => (
+          <li className={utilStyles.listItem} key={id}>
+            <Post id={id} title={title} date={date} />
+          </li>
+        ))}
     </ul>
   );
 
   const renderPageNumbers = () => (pages.map((page) => {
     if (page > minPageLimit && page <= maxPageLimit) {
       return (
-        <li 
-          key={page} 
-          id={page} 
+        <li
+          key={page}
+          id={page}
           onClick={handlePageClick}
           className={currentPage === page ? paginationStyles.active : null}
         >
