@@ -25,7 +25,7 @@ Megan, on the other hand, chose the *sashimi*, which also carried an additional 
 
 The last thing worth mentioning would be the authenticity of the wasabi used; they carried way bigger of a kick than the ones you would see in packets at cheaper sushi restaurants.
 
-![app2-sashimi](/images/posts/food/koma/app2-sashimi.jpg)
+![app2-sashimi](/images/posts/food/koma/app2-sashimi.JPG)
 
 # Course 2: main
 
@@ -37,7 +37,7 @@ For my main, I decided to go with 2 pieces of the *miso marinated black cod*. I 
 
 Megan had the *truffle fried rice*. She had mixed feelings about the dish, and thought it maybe was a bit too salty and had too many mushrooms. When I had a taste, though, I thought it was bland and maybe was not truffle-y enough. Or was the "truffle" flavour in chips and cheaper restaurants not actually authentic? I'm not sure (I'm not some professional food critic or anything). In any case, we surmised that at least in the seasoning department, the rice wasn't consistently salted, which was definitely a disappointment.
 
-![main2-rice](/images/posts/food/koma/main2-rice.jpg)
+![main2-rice](/images/posts/food/koma/main2-rice.JPG)
 
 # Course 3: dessert
 
@@ -47,7 +47,7 @@ As a cheese cake lover, I opted for the *Japanese cheese cake*. The strawberry t
 
 Megan hesitantly chose the *lemon yuzu* (I said hestitantly because she wasn't a huge fan of any of the dessert choices). It was basically a lemon mousse with yuzu jam perched on some cacao crumble. We both thought it was just alright; I give the dish extra points because of its immaculate presentation with cleverly hiding the mousse in a very realistic-looking lemon shell, but we thought the dish was maybe a bit too sour at times. The cacao crumble balanced this tangy flavour pretty well though.
 
-![dessert2-lemon](/images/posts/food/koma/dessert2-lemon.jpg)
+![dessert2-lemon](/images/posts/food/koma/dessert2-lemon.JPG)
 
 While I thought the first two courses felt small in terms of portion size, the dessert was a whole 'nother story. It felt like they were trying to compensate for the tininess of the appetiser and main by giving us a massive dessert. By the end, I was really stuffed, and I really didn't expect that.
 
