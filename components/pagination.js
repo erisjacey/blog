@@ -3,6 +3,12 @@ import Post from '@/components/post';
 import paginationStyles from '@/styles/pagination.module.css';
 import utilStyles from '@/styles/utils.module.css';
 
+/**
+ * Adds pagination to divide post data into a sequence of pages.
+ * 
+ * Reference material:
+ * https://blog.logrocket.com/react-pagination-scratch-hooks/
+ */
 const Pagination = ({ posts }) => {
   const pageNumberLimit = 5;
   const postsPerPageLimit = 7;
