@@ -1,5 +1,5 @@
 ---
-title: '[Japan] Day 3: Shirakawago'
-date: '2023-12-31'
+title: '[Japan] Day 4: Bus to Kanazawa'
+date: '2024-01-01'
 country: 'Japan'
 ---
