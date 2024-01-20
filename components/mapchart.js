@@ -20,7 +20,10 @@ const MapChart = () => {
   return (
     <>
       <ComposableMap projection="geoEqualEarth">
-        <ZoomableGroup center={[0, 0]} zoom={1}>
+        <ZoomableGroup 
+          center={markers[3].coordinates} // Currently set to Osaka
+          zoom={5}
+        >
           <Geographies geography={GEO_URL}>
             {({ geographies }) =>
               geographies.map((geo) => (
