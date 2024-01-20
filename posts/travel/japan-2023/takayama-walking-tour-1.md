@@ -126,7 +126,7 @@ Admission was ¥500 per adult.
 
 ![kusakabe-folk-museum-2](/images/posts/travel/japan-2023/takayama-walking-tour-1/kusakabe-folk-museum-2.JPG)
 
-# Lunch: Sush-Dining Nob
+# Lunch: Sushi Dining Nob
 
 At this point, we had been walking for almost 4 hours, and were mostly definitely starving, not to mention feeling some form of "templed-out". We decided to have our lunch at [*Sushi Dining Nob*](https://www.facebook.com/nob.sushidining/), a rather quiet restaurant slightly outside of the main touristy area.
 
@@ -144,4 +144,6 @@ The steak that came while we were in the middle of going through our sushi platt
 
 Our lunch came to ¥7463. The steak itself cost ¥3500. While definitely not super budget-friendly, I just thought about how it would've cost maybe double that amount if it was served in Singapore.
 
-*Stayed tuned for part 2 as well as the rest of my recounts of the trip!*
+Next post:
+
+* [Takayama: walking tour [2/2]](./takayama-walking-tour-2)
