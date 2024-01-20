@@ -52,7 +52,7 @@ He also had us write some words for him on some book of his. I wasn't sure what 
 
 Finally, he whipped out a really old camera, and for our page in his book, took a picture of Megan and I. It must've taken him about 10 minutes to develop the photo, but as the last surprise of this serendipitous visit, he gave us a copy. Super cool!
 
-![higashiyama-walking-course_photo](/images/posts/travel/japan-2023/takayama-walking-tour-2/higashiyama-walking-course_photo.JPG)
+![higashiyama-walking-course_photo](/images/posts/travel/japan-2023/takayama-walking-tour-2/higashiyama-walking-course_photo.jpg)
 
 We had expected to spend maybe 10 minutes for a quick coffee break, but we ended up staying there for much longer. What a pleasant experience though.
 
