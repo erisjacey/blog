@@ -20,10 +20,10 @@ const Home = ({ allPostsData }) => {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <div>
+      <div className={`${utilStyles.padding3pc}`}>
         <MapChart />
       </div>
-      <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding3pc} text-justify`}>
+      <article className={`prose ${utilStyles.headingMd} ${utilStyles.padding6pc} text-justify`}>
         <p>Welcome to my blog!</p>
         <p>
           My name is Eris, and I am currently a software engineer with a
