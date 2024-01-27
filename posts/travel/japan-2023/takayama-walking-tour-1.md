@@ -90,7 +90,7 @@ Our final patronage at the market had us trying some *tamaten*, another snack we
 
 While I had expected it to be similar to tamagoyaki, a rather sweet egg Japanese dish, it was much closer to a roasted marshmallow in terms of texture and flavour. In some ways, it felt fluffier than even the most roasted of marshmallows. 
 
-Overall, I thought it was a nice way to wrap up our mini-food adventure in the Miyagawa Morning Market.
+Overall, I thought it was a nice way to wrap up our mini-food adventure at the Miyagawa Morning Market.
 
 ![market-food_tamaten-2](/images/posts/travel/japan-2023/takayama-walking-tour-1/market-food_tamaten-2.JPG)
 
