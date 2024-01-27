@@ -124,4 +124,6 @@ My introduction to Hida beef was a very welcome one, and I don't think it's hype
 
 ![selfie](/images/posts/travel/japan-2023/takayama-walking-tour-2/selfie.JPG)
 
-*Stay tuned for my next post on our day trip to Shinhotaka Ropeway!*
+Next post:
+
+* [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway)

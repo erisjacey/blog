@@ -144,6 +144,7 @@ The steak that came while we were in the middle of going through our sushi platt
 
 Our lunch came to ¥7463. The steak itself cost ¥3500. While definitely not super budget-friendly, I just thought about how it would've cost maybe double that amount if it was served in Singapore.
 
-Next post:
+Next posts:
 
 * [Takayama: walking tour [2/2]](./takayama-walking-tour-2)
+* [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway)
