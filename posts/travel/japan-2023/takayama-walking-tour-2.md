@@ -6,10 +6,6 @@ country: 'Japan'
 
 *This post covers our activities for the day after lunch.*
 
-Previous post:
-
-* [Takayama: walking tour [1/2]](./takayama-walking-tour-1)
-
 ![map-route-2](/images/posts/travel/japan-2023/takayama-walking-tour-2/map-route-2.png)
 
 Before going to our next place, we decided to have some dessert in the main Sannomachi area. We sadly found that all the dessert places either didn't review very well on Google, or were filled with so many people it didn't seem like it was worth the wait. Thankfully, we stumbled on a place selling Hida beef skewers, and we thought they'd be interesting.
@@ -124,6 +120,7 @@ My introduction to Hida beef was a very welcome one, and I don't think it's hype
 
 ![selfie](/images/posts/travel/japan-2023/takayama-walking-tour-2/selfie.JPG)
 
-Next post:
-
-* [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway)
+| Previous post | Next posts |
+| :---          | :---       |
+| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway) |
+|               | [New Year's Eve](./new-years-eve) |

@@ -4,11 +4,6 @@ date: '2023-12-30'
 country: 'Japan'
 ---
 
-Previous posts:
-
-* [Takayama: walking tour [1/2]](./takayama-walking-tour-1)
-* [Takayama: walking tour [2/2]](./takayama-walking-tour-2)
-
 On this day, Megan and I went on a day trip to [*Shinhotaka Ropeway*](https://shinhotaka-ropeway.jp/en/), a ropeway that takes visitors up the Northern Alps of Japan to heights of up to 2156 metres. At the top, we were supposed to be able to take in stunning views of the alps from various vantage points and at various angles. Needless to say, for someone who had not yet been to any mountain range of this scale, this sounded like a very interesting day trip.
 
 To get to the lower station of Shinhotaka Ropeway from Takayama, we needed to take a bus that ran every hour so, and that cost ¥2200 per person. There was also a bus that connected [*Hirayu Onsen*](https://www.japan.travel/en/spot/1263/) and the ropeway, and that was the route we took at the end of the day to get back to Takayama.
@@ -149,12 +144,14 @@ This was our last foray into Hida beef goodness in the trip, and it was simply t
 
 While the food was really, really good, this was one of the pricier restaurants in our whole trip. I guess you do get what you pay for though.
 
-* Sirloin (100g) with rice: ¥5000
-* Ribeye (100g) with sushi: ¥7000
-* Extra rice bowl: ¥200
-* Total: ¥12200 (!!!)
+| Food                         | Cost             |
+| :---                         | :---             |
+| Sirloin (100g) with rice     | ¥5000            |
+| Ribeye (100g) with sushi     | ¥7000            |
+| Extra rice bowl              | ¥200             |
+| **Total**                    | **¥12200 (!!!)** |
 
-We agreed to have more modest meals the next day, so we bought some food at 7-11 on the way back to our hotel before calling it a day.
+We agreed to have more modest meals the next day, so we bought some food at 7-Eleven on the way back to our hotel before calling it a day.
 
 # My thoughts
 
@@ -162,4 +159,7 @@ Shinhotaka Ropeway was a really fun day trip from Takayama. In my opinion, it's 
 
 ![selfie](/images/posts/travel/japan-2023/shinhotaka-ropeway/selfie.jpeg)
 
-*Stay tuned for my next post on the earthquake we experienced in Kanazawa!*
+| Previous posts | Next post |
+| :---           | :---      |
+| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [New Year's Eve](./new-years-eve) |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | |
