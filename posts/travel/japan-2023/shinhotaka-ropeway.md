@@ -144,12 +144,14 @@ This was our last foray into Hida beef goodness in the trip, and it was simply t
 
 While the food was really, really good, this was one of the pricier restaurants in our whole trip. I guess you do get what you pay for though.
 
-* Sirloin (100g) with rice: ¥5000
-* Ribeye (100g) with sushi: ¥7000
-* Extra rice bowl: ¥200
-* Total: ¥12200 (!!!)
+| Food                         | Cost             |
+| :---                         | :---             |
+| Sirloin (100g) with rice     | ¥5000            |
+| Ribeye (100g) with sushi     | ¥7000            |
+| Extra rice bowl              | ¥200             |
+| **Total**                    | **¥12200 (!!!)** |
 
-We agreed to have more modest meals the next day, so we bought some food at 7-11 on the way back to our hotel before calling it a day.
+We agreed to have more modest meals the next day, so we bought some food at 7-Eleven on the way back to our hotel before calling it a day.
 
 # My thoughts
 
