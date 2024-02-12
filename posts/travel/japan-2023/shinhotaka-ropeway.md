@@ -163,3 +163,4 @@ Shinhotaka Ropeway was a really fun day trip from Takayama. In my opinion, it's 
 | :---           | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [New Year's Eve](./new-years-eve) |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Shirakwago](./shirakawago.md) |
+|                | [Kanazawa](./kanazawa) |

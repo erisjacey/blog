@@ -150,3 +150,4 @@ Our lunch came to ¥7463. The steak itself cost ¥3500. While definitely not sup
 | [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway) |
 | [New Year's Eve](./new-years-eve) |
 | [Shirakwago](./shirakawago.md) |
+| [Kanazawa](./kanazawa) |
