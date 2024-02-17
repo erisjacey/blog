@@ -145,5 +145,5 @@ In retrospect, this was a much-needed rest day, considering our first two days e
 | Previous posts | Next posts |
 | :---           | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Shirakawago](./shirakawago) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Kanazawa](./kanazawa) |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 | [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway) | |

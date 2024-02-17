@@ -35,7 +35,7 @@ While it's true that Shirakawago did not offer much in the way of touristy activ
 
 | Previous posts | Next post |
 | :---           | :---      |
-| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Kanazawa](./kanazawa) |
+| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | |
 | [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway) | |
 | [New Year's Eve](./new-years-eve) | |
