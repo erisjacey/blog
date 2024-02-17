@@ -1,6 +1,7 @@
 ---
 title: '[Japan] Shirakawago'
 date: '2024-01-01'
+time: '09:00'
 country: 'Japan'
 ---
 
