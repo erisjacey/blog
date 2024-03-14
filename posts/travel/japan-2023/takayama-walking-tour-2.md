@@ -122,7 +122,9 @@ My introduction to Hida beef was a very welcome one, and I don't think it's hype
 
 | Previous post | Next posts |
 | :---          | :---       |
-| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway) |
+| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Shinhotaka Ropeway](./shinhotaka-ropeway) |
 |               | [New Year's Eve](./new-years-eve) |
 |               | [Shirakwago](./shirakawago) |
 |               | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
+|               | [Kanazawa: aftermath](./kanazawa-aftermath) |
+|               | [Onward to Yudanaka](./onward-to-yudanaka) |

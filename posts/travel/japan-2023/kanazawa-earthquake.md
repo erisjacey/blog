@@ -93,10 +93,10 @@ I had never directly experienced a natural disaster before, so I was honestly te
 
 And I know countless others had it worse. My heart goes out to everyone affected by the earthquake and resulting tsunami, especially those nearer to the epicenter.
 
-| Previous posts |
-| :---           |
-| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) |
-| [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway) |
-| [New Year's Eve](./new-years-eve) |
-| [Shirakawago](./shirakawago) |
+| Previous posts | Next posts |
+| :---           | :---       |
+| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Kanazawa: aftermath](./kanazawa-aftermath) |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Onward to Yudanaka](./onward-to-yudanaka) |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
+| [New Year's Eve](./new-years-eve) | |
+| [Shirakawago](./shirakawago) | |

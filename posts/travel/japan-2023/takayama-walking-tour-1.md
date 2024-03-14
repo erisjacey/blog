@@ -147,7 +147,9 @@ Our lunch came to ¥7463. The steak itself cost ¥3500. While definitely not sup
 | Next posts |
 | :---       |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) |
-| [Takayama day trip: Shinhotaka Ropeway](./shinhotaka-ropeway) |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) |
 | [New Year's Eve](./new-years-eve) |
 | [Shirakwago](./shirakawago) |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
+| [Kanazawa: aftermath](./kanazawa-aftermath) |
+| [Onward to Yudanaka](./onward-to-yudanaka) |
