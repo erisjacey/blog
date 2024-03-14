@@ -1,5 +1,5 @@
 ---
-title: '[Japan] Kanazawa: Aftermath'
+title: '[Japan] Kanazawa: aftermath'
 date: '2024-01-02'
 country: 'Japan'
 ---
@@ -48,11 +48,11 @@ As we followed the news about the earthquake, we couldn't help but think about t
 
 ![sunset](/images/posts/travel/japan-2023/kanazawa-aftermath/sunset.JPG)
 
-| Previous posts |
-| :---           |
-| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) |
-| [Shinhotaka Ropeway](./shinhotaka-ropeway) |
-| [New Year's Eve](./new-years-eve) |
-| [Shirakawago](./shirakawago) |
-| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
+| Previous posts | Next post |
+| :---           | :---      |
+| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Onward to Yudanaka](./onward-to-yudanaka) |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
+| [New Year's Eve](./new-years-eve) | |
+| [Shirakawago](./shirakawago) | |
+| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |

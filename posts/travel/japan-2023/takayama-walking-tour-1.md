@@ -151,4 +151,5 @@ Our lunch came to ¥7463. The steak itself cost ¥3500. While definitely not sup
 | [New Year's Eve](./new-years-eve) |
 | [Shirakwago](./shirakawago) |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
-| [Kanazawa: Aftermath](./kanazawa-aftermath) |
+| [Kanazawa: aftermath](./kanazawa-aftermath) |
+| [Onward to Yudanaka](./onward-to-yudanaka) |

@@ -126,4 +126,5 @@ My introduction to Hida beef was a very welcome one, and I don't think it's hype
 |               | [New Year's Eve](./new-years-eve) |
 |               | [Shirakwago](./shirakawago) |
 |               | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
-|               | [Kanazawa: Aftermath](./kanazawa-aftermath) |
+|               | [Kanazawa: aftermath](./kanazawa-aftermath) |
+|               | [Onward to Yudanaka](./onward-to-yudanaka) |
