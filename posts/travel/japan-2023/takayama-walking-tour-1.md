@@ -153,3 +153,4 @@ Our lunch came to ¥7463. The steak itself cost ¥3500. While definitely not sup
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 | [Kanazawa: aftermath](./kanazawa-aftermath) |
 | [Onward to Yudanaka](./onward-to-yudanaka) |
+| [Jigokudani Monkey Park](./jigokudani-monkey-park) |

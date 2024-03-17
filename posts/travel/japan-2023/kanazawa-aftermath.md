@@ -48,10 +48,10 @@ As we followed the news about the earthquake, we couldn't help but think about t
 
 ![sunset](/images/posts/travel/japan-2023/kanazawa-aftermath/sunset.JPG)
 
-| Previous posts | Next post |
-| :---           | :---      |
+| Previous posts | Next posts |
+| :---           | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Onward to Yudanaka](./onward-to-yudanaka) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
 | [New Year's Eve](./new-years-eve) | |
 | [Shirakawago](./shirakawago) | |

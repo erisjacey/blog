@@ -166,3 +166,4 @@ Shinhotaka Ropeway was a really fun day trip from Takayama. In my opinion, it's 
 |                | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 |                | [Kanazawa: aftermath](./kanazawa-aftermath) |
 |                | [Onward to Yudanaka](./onward-to-yudanaka) |
+|                | [Jigokudani Monkey Park](./jigokudani-monkey-park) |

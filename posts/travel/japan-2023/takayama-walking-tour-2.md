@@ -128,3 +128,4 @@ My introduction to Hida beef was a very welcome one, and I don't think it's hype
 |               | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 |               | [Kanazawa: aftermath](./kanazawa-aftermath) |
 |               | [Onward to Yudanaka](./onward-to-yudanaka) |
+|               | [Jigokudani Monkey Park](./jigokudani-monkey-park) |

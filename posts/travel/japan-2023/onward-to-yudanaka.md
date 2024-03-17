@@ -128,12 +128,12 @@ I was mainly looking forward to seeing the snow monkeys the next day.
 
 *This picture was taken near Kanazawa Castle because we didn't have a lot of pictures of us at Yudanaka Onsen. Oops.*
 
-| Previous posts |
-| :---           |
-| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) |
-| [Shinhotaka Ropeway](./shinhotaka-ropeway) |
-| [New Year's Eve](./new-years-eve) |
-| [Shirakawago](./shirakawago) |
-| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
-| [Kanazawa: aftermath](./kanazawa-aftermath) |
+| Previous posts | Next post |
+| :---           | :---      |
+| [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
+| [New Year's Eve](./new-years-eve) | |
+| [Shirakawago](./shirakawago) | |
+| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
+| [Kanazawa: aftermath](./kanazawa-aftermath) | |

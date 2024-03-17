@@ -38,4 +38,4 @@ While it's true that Shirakawago did not offer much in the way of touristy activ
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Kanazawa: aftermath](./kanazawa-aftermath) |
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Onward to Yudanaka](./onward-to-yudanaka) |
-| [New Year's Eve](./new-years-eve) | |
+| [New Year's Eve](./new-years-eve) | [Jigokudani Monkey Park](./jigokudani-monkey-park) |

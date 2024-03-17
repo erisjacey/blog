@@ -148,3 +148,4 @@ In retrospect, this was a much-needed rest day, considering our first two days e
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Kanazawa: aftermath](./kanazawa-aftermath) |
 |                | [Onward to Yudanaka](./onward-to-yudanaka) |
+|                | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
