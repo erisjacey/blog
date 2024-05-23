@@ -149,3 +149,10 @@ In retrospect, this was a much-needed rest day, considering our first two days e
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Kanazawa: aftermath](./kanazawa-aftermath) |
 |                | [Onward to Yudanaka](./onward-to-yudanaka) |
 |                | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
+|                | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) |
+|                | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) |
+|                | [Shiga Kogen: skiing [2/2]](./shiga-kogen-skiing-2) |
+|                | [Return to Osaka](./return-to-osaka) |
+|                | [Osaka: walking tour](./osaka-walking-tour) |
+|                | [Universal Studios Japan](./usj) |
+|                | [Final thoughts](./final-thoughts) |

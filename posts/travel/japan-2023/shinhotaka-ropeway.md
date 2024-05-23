@@ -162,8 +162,15 @@ Shinhotaka Ropeway was a really fun day trip from Takayama. In my opinion, it's 
 | Previous posts | Next posts |
 | :---           | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [New Year's Eve](./new-years-eve) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Shirakwago](./shirakawago) |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Shirakawago](./shirakawago) |
 |                | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 |                | [Kanazawa: aftermath](./kanazawa-aftermath) |
 |                | [Onward to Yudanaka](./onward-to-yudanaka) |
 |                | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
+|                | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) |
+|                | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) |
+|                | [Shiga Kogen: skiing [2/2]](./shiga-kogen-skiing-2) |
+|                | [Return to Osaka](./return-to-osaka) |
+|                | [Osaka: walking tour](./osaka-walking-tour) |
+|                | [Universal Studios Japan](./usj) |
+|                | [Final thoughts](./final-thoughts) |

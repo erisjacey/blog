@@ -131,9 +131,10 @@ I was mainly looking forward to seeing the snow monkeys the next day.
 | Previous posts | Next post |
 | :---           | :---      |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | |
-| [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
-| [New Year's Eve](./new-years-eve) | |
-| [Shirakawago](./shirakawago) | |
-| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
-| [Kanazawa: aftermath](./kanazawa-aftermath) | |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) |
+| [New Year's Eve](./new-years-eve) | [Shiga Kogen: skiing [2/2]](./shiga-kogen-skiing-2) |
+| [Shirakawago](./shirakawago) | [Return to Osaka](./return-to-osaka) |
+| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | [Osaka: walking tour](./osaka-walking-tour) |
+| [Kanazawa: aftermath](./kanazawa-aftermath) | [Universal Studios Japan](./usj) |
+|               | [Final thoughts](./final-thoughts) |

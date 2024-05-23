@@ -52,7 +52,10 @@ As we followed the news about the earthquake, we couldn't help but think about t
 | :---           | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Onward to Yudanaka](./onward-to-yudanaka) |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
-| [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
-| [New Year's Eve](./new-years-eve) | |
-| [Shirakawago](./shirakawago) | |
-| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) |
+| [New Year's Eve](./new-years-eve) | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) |
+| [Shirakawago](./shirakawago) | [Shiga Kogen: skiing [2/2]](./shiga-kogen-skiing-2) |
+| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | [Return to Osaka](./return-to-osaka) |
+|               | [Osaka: walking tour](./osaka-walking-tour) |
+|               | [Universal Studios Japan](./usj) |
+|               | [Final thoughts](./final-thoughts) |
