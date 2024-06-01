@@ -6,11 +6,11 @@ country: 'Japan'
 
 It was time to head to what I had been looking forward to most in the trip. For me personally, I tried skiing exactly a year ago and found it to be one of the most enjoyable things to do in a winter trip, probably because of a combination of the thrill and the spectacle of speeding down snow-capped winter landscapes.
 
-[*Shiga Kogen Mountain Resort*](https://shigakogen-ski.or.jp/english/) is the largest combined ski area in Japan, boasting a group of 18 ski resorts joined together. It consists of several areas, which alone could already take a whole day to explore. We had strategically planned this as our next destination as it was only 30 min away from Yudanaka Station by bus.
+[*Shiga Kogen Mountain Resort*](https://shigakogen-ski.or.jp/english/) is the largest combined ski area in Japan, boasting a group of 18 ski resorts joined together. It consists of several areas, which alone could already take a whole day to explore. We had strategically planned this as our next destination as it was only 30 min away from Yudanaka Onsen by bus.
 
 # Breakfast: Ryokan
 
-We got to enjoy our last meal at the ryokan with another sumptuous breakfast. Unfortunately, Megan had feeling pretty unwell as our ryokan admittedly did not have adequate heating to combat the biting cold, so I went for breakfast by myself. I ended up (read: attempted) eating both our portions as I didn't want to waste food, so to say I was satisfied was very much an overstatement.
+We had the opportunity to enjoy our last meal at the ryokan with another sumptuous breakfast. Unfortunately, Megan had been feeling pretty unwell as our ryokan admittedly did not have adequate heating to combat the biting cold, so I went for breakfast by myself. I ended up (read: attempted) eating both our portions as I didn't want to waste food, so to say I was satisfied was very much an overstatement.
 
 ![breakfast](/images/posts/travel/japan-2023/onward-to-shiga-kogen/breakfast.jpg)
 
@@ -36,7 +36,7 @@ Not long after, it was already dinnertime, so we braved into the dark and cold f
 
 ![dinner_food](/images/posts/travel/japan-2023/onward-to-shiga-kogen/dinner_food.jpg)
 
-It turned out to indeed be the case, as I realise my unhealthy self did need some fried food once in a while. To go even further, we each had a glass of beer. Personally, I thought their locally-brewed beer was terrible and would not want to have it again.
+It turned out to indeed be the case, as I realised my unhealthy self did need some fried food once in a while. To go even further, we each had a glass of beer. Personally, I thought their locally-brewed beer was terrible and would not want to have it again.
 
 ![dinner_beer](/images/posts/travel/japan-2023/onward-to-shiga-kogen/dinner_beer.jpg)
 
