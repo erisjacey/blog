@@ -53,5 +53,5 @@ This day was mostly a transitionary phase, and while we were not able to go skii
 | [Shirakawago](./shirakawago) | [Universal Studios Japan](./usj) |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
-| [Onward to Yudanaka](./onward-to-yudanaka.md) | |
+| [Onward to Yudanaka](./onward-to-yudanaka) | |
 | [Jigokudani Monkey Park](./jigokudani-monkey-park) | |

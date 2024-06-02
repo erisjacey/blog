@@ -63,6 +63,6 @@ While most of the day was filled with frustrations, I think I managed to finally
 | [Shirakawago](./shirakawago) | |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
-| [Onward to Yudanaka](./onward-to-yudanaka.md) | |
+| [Onward to Yudanaka](./onward-to-yudanaka) | |
 | [Jigokudani Monkey Park](./jigokudani-monkey-park) | |
 | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) | |

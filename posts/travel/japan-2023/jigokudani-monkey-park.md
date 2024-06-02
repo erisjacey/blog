@@ -79,4 +79,4 @@ The snow monkey park was definitely feature some of the more interesting sights 
 | [Shirakawago](./shirakawago) | [Osaka: walking tour](./osaka-walking-tour) |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | [Universal Studios Japan](./usj) |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
-| [Onward to Yudanaka](./onward-to-yudanaka.md) | |
+| [Onward to Yudanaka](./onward-to-yudanaka) | |

@@ -205,7 +205,7 @@ All in all, today was an excellent end to a really fun winter trip.
 | [Shirakawago](./shirakawago) |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 | [Kanazawa: aftermath](./kanazawa-aftermath) |
-| [Onward to Yudanaka](./onward-to-yudanaka.md) |
+| [Onward to Yudanaka](./onward-to-yudanaka) |
 | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
 | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) |
 | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) |
