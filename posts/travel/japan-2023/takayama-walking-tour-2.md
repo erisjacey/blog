@@ -124,7 +124,14 @@ My introduction to Hida beef was a very welcome one, and I don't think it's hype
 | :---          | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Shinhotaka Ropeway](./shinhotaka-ropeway) |
 |               | [New Year's Eve](./new-years-eve) |
-|               | [Shirakwago](./shirakawago) |
+|               | [Shirakawago](./shirakawago) |
 |               | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) |
 |               | [Kanazawa: aftermath](./kanazawa-aftermath) |
 |               | [Onward to Yudanaka](./onward-to-yudanaka) |
+|               | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
+|               | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) |
+|               | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) |
+|               | [Shiga Kogen: skiing [2/2]](./shiga-kogen-skiing-2) |
+|               | [Return to Osaka](./return-to-osaka) |
+|               | [Osaka: walking tour](./osaka-walking-tour) |
+|               | [Universal Studios Japan](./usj) |

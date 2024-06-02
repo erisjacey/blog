@@ -97,6 +97,10 @@ And I know countless others had it worse. My heart goes out to everyone affected
 | :---           | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Kanazawa: aftermath](./kanazawa-aftermath) |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Onward to Yudanaka](./onward-to-yudanaka) |
-| [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
-| [New Year's Eve](./new-years-eve) | |
-| [Shirakawago](./shirakawago) | |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Jigokudani Monkey Park](./jigokudani-monkey-park) |
+| [New Year's Eve](./new-years-eve) | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) |
+| [Shirakawago](./shirakawago) | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) |
+|                | [Shiga Kogen: skiing [2/2]](./shiga-kogen-skiing-2) |
+|                | [Return to Osaka](./return-to-osaka) |
+|                | [Osaka: walking tour](./osaka-walking-tour) |
+|                | [Universal Studios Japan](./usj) |
