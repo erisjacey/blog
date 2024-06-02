@@ -79,7 +79,7 @@ But that's for next time. There's still more in Japan for us to experience!
 | [Shirakawago](./shirakawago) | |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
-| [Onward to Yudanaka](./onward-to-yudanaka.md) | |
+| [Onward to Yudanaka](./onward-to-yudanaka) | |
 | [Jigokudani Monkey Park](./jigokudani-monkey-park) | |
 | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) | |
 | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) | |

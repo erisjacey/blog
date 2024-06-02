@@ -115,7 +115,7 @@ It was fun to once again just walk around the heart of a city and indulge its ow
 | [Shirakawago](./shirakawago) | |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
-| [Onward to Yudanaka](./onward-to-yudanaka.md) | |
+| [Onward to Yudanaka](./onward-to-yudanaka) | |
 | [Jigokudani Monkey Park](./jigokudani-monkey-park) | |
 | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) | |
 | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) | |

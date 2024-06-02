@@ -83,7 +83,7 @@ Nothing much to say for this day, other than it did feel oddly comfortable to be
 | [Shirakawago](./shirakawago) | |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
-| [Onward to Yudanaka](./onward-to-yudanaka.md) | |
+| [Onward to Yudanaka](./onward-to-yudanaka) | |
 | [Jigokudani Monkey Park](./jigokudani-monkey-park) | |
 | [Onward to Shiga Kogen Ski Resort](./onward-to-shiga-kogen) | |
 | [Shiga Kogen: skiing [1/2]](./shiga-kogen-skiing-1) | |
