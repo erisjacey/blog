@@ -51,7 +51,7 @@ This day was mostly a transitionary phase, and while we were not able to go skii
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Return to Osaka](./return-to-osaka) |
 | [New Year's Eve](./new-years-eve) | [Osaka: walking tour](./osaka-walking-tour) |
 | [Shirakawago](./shirakawago) | [Universal Studios Japan](./usj) |
-| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | [Final thoughts](./final-thoughts) |
+| [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
 | [Onward to Yudanaka](./onward-to-yudanaka.md) | |
 | [Jigokudani Monkey Park](./jigokudani-monkey-park) | |

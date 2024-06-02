@@ -137,4 +137,3 @@ I was mainly looking forward to seeing the snow monkeys the next day.
 | [Shirakawago](./shirakawago) | [Return to Osaka](./return-to-osaka) |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | [Osaka: walking tour](./osaka-walking-tour) |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | [Universal Studios Japan](./usj) |
-|               | [Final thoughts](./final-thoughts) |

@@ -45,4 +45,3 @@ While it's true that Shirakawago did not offer much in the way of touristy activ
 |                | [Return to Osaka](./return-to-osaka) |
 |                | [Osaka: walking tour](./osaka-walking-tour) |
 |                | [Universal Studios Japan](./usj) |
-|                | [Final thoughts](./final-thoughts) |

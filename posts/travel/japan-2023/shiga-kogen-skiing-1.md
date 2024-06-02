@@ -58,7 +58,7 @@ While most of the day was filled with frustrations, I think I managed to finally
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Return to Osaka](./return-to-osaka) |
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Osaka: walking tour](./osaka-walking-tour) |
 | [New Year's Eve](./new-years-eve) | [Universal Studios Japan](./usj) |
-| [Shirakawago](./shirakawago) | [Final thoughts](./final-thoughts) |
+| [Shirakawago](./shirakawago) | |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |
 | [Onward to Yudanaka](./onward-to-yudanaka.md) | |

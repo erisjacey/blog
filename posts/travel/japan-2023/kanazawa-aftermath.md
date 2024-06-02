@@ -58,4 +58,3 @@ As we followed the news about the earthquake, we couldn't help but think about t
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | [Return to Osaka](./return-to-osaka) |
 |               | [Osaka: walking tour](./osaka-walking-tour) |
 |               | [Universal Studios Japan](./usj) |
-|               | [Final thoughts](./final-thoughts) |

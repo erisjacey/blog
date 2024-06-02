@@ -155,4 +155,3 @@ In retrospect, this was a much-needed rest day, considering our first two days e
 |                | [Return to Osaka](./return-to-osaka) |
 |                | [Osaka: walking tour](./osaka-walking-tour) |
 |                | [Universal Studios Japan](./usj) |
-|                | [Final thoughts](./final-thoughts) |

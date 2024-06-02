@@ -106,10 +106,10 @@ It was fun to once again just walk around the heart of a city and indulge its ow
 
 ![selfie](/images/posts/travel/japan-2023/osaka-walking-tour/selfie.jpg)
 
-| Previous posts | Next posts |
-| :---           | :---       |
+| Previous posts | Next post |
+| :---           | :---      |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Universal Studios Japan](./usj) |
-| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Final thoughts](./final-thoughts) |
+| [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | |
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
 | [New Year's Eve](./new-years-eve) | |
 | [Shirakawago](./shirakawago) | |

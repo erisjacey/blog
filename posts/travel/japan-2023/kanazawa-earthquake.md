@@ -104,4 +104,3 @@ And I know countless others had it worse. My heart goes out to everyone affected
 |                | [Return to Osaka](./return-to-osaka) |
 |                | [Osaka: walking tour](./osaka-walking-tour) |
 |                | [Universal Studios Japan](./usj) |
-|                | [Final thoughts](./final-thoughts) |

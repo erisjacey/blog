@@ -78,7 +78,7 @@ Nothing much to say for this day, other than it did feel oddly comfortable to be
 | :---           | :---       |
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Osaka: walking tour](./osaka-walking-tour) |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Universal Studios Japan](./usj) |
-| [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Final thoughts](./final-thoughts) |
+| [Shinhotaka Ropeway](./shinhotaka-ropeway) | |
 | [New Year's Eve](./new-years-eve) | |
 | [Shirakawago](./shirakawago) | |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |

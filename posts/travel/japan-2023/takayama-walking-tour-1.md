@@ -160,4 +160,3 @@ Our lunch came to ¥7463. The steak itself cost ¥3500. While definitely not sup
 | [Return to Osaka](./return-to-osaka) |
 | [Osaka: walking tour](./osaka-walking-tour) |
 | [Universal Studios Japan](./usj) |
-| [Final thoughts](./final-thoughts) |

@@ -75,7 +75,7 @@ But that's for next time. There's still more in Japan for us to experience!
 | [Takayama: walking tour [1/2]](./takayama-walking-tour-1) | [Return to Osaka](./return-to-osaka) |
 | [Takayama: walking tour [2/2]](./takayama-walking-tour-2) | [Osaka: walking tour](./osaka-walking-tour) |
 | [Shinhotaka Ropeway](./shinhotaka-ropeway) | [Universal Studios Japan](./usj) |
-| [New Year's Eve](./new-years-eve) | [Final thoughts](./final-thoughts) |
+| [New Year's Eve](./new-years-eve) | |
 | [Shirakawago](./shirakawago) | |
 | [Kanazawa: 2024 Noto earthquake](./kanazawa-earthquake) | |
 | [Kanazawa: aftermath](./kanazawa-aftermath) | |

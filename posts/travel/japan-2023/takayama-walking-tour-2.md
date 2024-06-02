@@ -135,4 +135,3 @@ My introduction to Hida beef was a very welcome one, and I don't think it's hype
 |               | [Return to Osaka](./return-to-osaka) |
 |               | [Osaka: walking tour](./osaka-walking-tour) |
 |               | [Universal Studios Japan](./usj) |
-|               | [Final thoughts](./final-thoughts) |

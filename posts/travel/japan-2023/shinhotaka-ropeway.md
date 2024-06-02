@@ -173,4 +173,3 @@ Shinhotaka Ropeway was a really fun day trip from Takayama. In my opinion, it's 
 |                | [Return to Osaka](./return-to-osaka) |
 |                | [Osaka: walking tour](./osaka-walking-tour) |
 |                | [Universal Studios Japan](./usj) |
-|                | [Final thoughts](./final-thoughts) |
