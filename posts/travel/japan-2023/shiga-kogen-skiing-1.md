@@ -12,6 +12,8 @@ We started our day as usual trying to fill our empty stomachs. When we had check
 
 Both meals, contrary to our previous ryokan stay, were served buffet-style, and seemed to have both local and international options. All in all, this was a welcome change, because even after our dinner yesterday, I was starting to miss the more western flavours a little more. Being able to control my portions was definitely needed as well, as my appetite was on the smaller side considering my health.
 
+According to Megan, the breakfasts here had been the best she'd ever had.
+
 ![breakfast](/images/posts/travel/japan-2023/shiga-kogen-skiing-1/breakfast.jpg)
 
 # Preparing to ski

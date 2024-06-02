@@ -26,7 +26,7 @@ Nevertheless, according to the [official USJ app](https://www.usj.co.jp/web/en/u
 
 *Credits to [Coaster Thrills](https://www.youtube.com/watch?v=XdG8_7H7IxY) for this picture.*
 
-Megan, being the acrophobia she was, needed a bit of convincing to go on this ride. I was glad she eventually agreed, because it turned out to be one of the better rides here, and I think she would say the same.
+Megan was not the most fond of thrilling rollercoasters and needed a bit of convincing to go on this ride. I was glad she eventually agreed, because it turned out to be one of the better rides here, and I think she would say the same.
 
 While it did have a couple of novelties like famous pop songs playing during the ride, the thrilling drops were fairly standard, which was not a bad thing at all.
 
@@ -60,7 +60,7 @@ I don't think this albeit small area was around when I visited 5 years ago, so i
 
 This was a 4-D ride that ended up being a lot more fun than I had expected, considering my pre-conceived notions of the theme. I thought it was going to be a kiddy ride, but it was actually pretty thrilling.
 
-We tried a bucket of popcorn, whose flavour I completely forgot (¥550). We would later find out that each zone in USJ would each sell two unique flavours, so a popcorn enthusiast would have a field day trying out as many of them as possible. On top of that, there were also unique premium popcorn buckets that could double as souvenirs, but we thought they were too expensive and unnecessary to buy.
+We tried a bucket of crème brûlée-flavoured popcorn (¥550). We would later find out that each zone in USJ would each sell two unique flavours, so a popcorn enthusiast would have a field day trying out as many of them as possible. On top of that, there were also unique premium popcorn buckets that could double as souvenirs, but we thought they were too expensive and unnecessary to buy.
 
 ![food_popcorn](/images/posts/travel/japan-2023/usj/food_popcorn.jpg)
 
