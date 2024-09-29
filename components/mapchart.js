@@ -21,7 +21,7 @@ const MapChart = () => {
     <>
       <ComposableMap projection="geoEqualEarth">
         <ZoomableGroup 
-          center={markers[3].coordinates} // Currently set to Osaka
+          center={markers[markers.length - 1].coordinates} // Currently set to latest marker
           zoom={5}
         >
           <Geographies geography={GEO_URL}>
