@@ -4,7 +4,7 @@ date: '2024-05-18'
 country: 'Vietnam'
 ---
 
-Megan and I had short 5 day getaway in Vietnam's capital. It was the first time either of us would be visting the country, so we were both pretty excited for this trip.
+Megan and I had short 5 day getaway in Vietnam's capital. It was the first time either of us would be visting the country (at least in quite a while), so we were both pretty excited for this trip.
 
 Details to our itinerary can be found [in this Wanderlog page](https://wanderlog.com/view/bctntpugyo/trip-to-hanoi/shared).
 
