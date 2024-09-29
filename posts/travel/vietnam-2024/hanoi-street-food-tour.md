@@ -104,8 +104,8 @@ Our first day in a new country was really pleasant, and it drove home our common
 
 ![selfie](/images/posts/travel/vietnam-2024/hanoi-street-food-tour/selfie.jpg)
 
-| Next posts |
+<!-- | Next posts |
 | :---       |
 | [Hanoi: educational tour](./hanoi-educational-tour) |
 | [Ha Long Bay: 2D1N cruise](./ha-long-bay-cruise) |
-| [Hanoi: return and chill](./return-to-hanoi) |
+| [Hanoi: return and chill](./return-to-hanoi) | -->
