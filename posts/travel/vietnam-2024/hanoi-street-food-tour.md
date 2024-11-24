@@ -52,7 +52,7 @@ We also saw a mass service happening, which was also neat I guess.
 
 ## Bánh mì
 
-Our first [bánh mì](https://www.allrecipes.com/recipe/187342/banh-mi/) from Vietnam itself! I thought the bread was really crunchy and appropraitely buttered, and the filling was fresh. The sandwich on the whole was delicious.
+Our first [bánh mì](https://www.allrecipes.com/recipe/187342/banh-mi/) from Vietnam itself! I thought the bread was really crunchy and appropriately buttered, and the filling was fresh. The sandwich on the whole was delicious.
 
 ![food_tour-banh_mi](/images/posts/travel/vietnam-2024/hanoi-street-food-tour/food_tour-banh_mi.jpg)
 
